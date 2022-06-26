@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>man.png</file>
+        <file>day.png</file>
+        <file>night.png</file>
+        <file>doctor.png</file>
+        <file>mafia.png</file>
+        <file>policeman.png</file>
+        <file>villian.png</file>
+    </qresource>
+</RCC>
